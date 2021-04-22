@@ -1,0 +1,42 @@
+clear
+echo "------------COMPUTER HACKING UTIL 1.0------------"
+sleep 0.1
+echo
+sleep 0.1
+echo
+sleep 0.1
+echo
+sleep 0.1
+echo
+sleep 0.1
+echo
+sleep 0.1
+echo
+sleep 2
+echo "MAINFRAME TERMINAL"
+while [ true ]
+do
+    sleep 2
+    echo -n "ENTER PASSWORD:"
+    read x
+    sleep 2
+    echo "01101101"
+    sleep 0.1
+    echo "10110101"
+    sleep 0.1
+    echo "01011101"
+    sleep 2
+    if [ "$x" == "HACK01101" ]; then
+        echo "ACCESS GRANTED"
+        echo "HACKER TERMINAL 1.0"
+        echo -n ">"
+        read x
+        while [ true ]
+        do
+            ls /bin
+        done
+    else
+        echo "ACCESS DENIED"
+        sleep 2
+    fi
+done
