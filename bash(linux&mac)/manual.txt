@@ -3,12 +3,23 @@
 APRIL 21 2021
     This is for MAC and LINUX. Any system with bash really. If you
 are on windows, you should install cygwin, which emulates a unix-like
-operating system on Windows. Ok. Once you have bash, you can execute
-it by typing "./hack". You can also copy it to /usr/bin, and then
-just type "hack". The actual program is very simple. It looks like one
-of those overly-dramatized computer terminals from movies. It askes
-fore a password. The correct password is "HACK01101". Once you type
-in this it spams the screen. To quite at any time, just press ctrl+c.
+operating system on Windows.
 
+UPDATE APRIL 22 2021: I Made a 32 bit windows executable binary with c
+so there is no need to install Cygwin. It is in /win.
+
+Ok. Once you have bash, you can execute it by typing "./hack". You
+can also copy it to /usr/bin, and then just type "hack". The actual
+program is very simple. It looks like one of those overly-dramatized
+computer terminals from movies. It askes fore a password. The correct
+password is "HACK01101". Once you type in this it spams the screen.
+To quite at any time, just press ctrl+c.
+
+UPDATE APRIL 22 2021
+    I have created a slightly modified version.
+use the file "hack2" instead. This one opens up a
+fake hacker terminal where you can type in something
+like "INSTALL.VIRUS." After typing in one command, press
+enter and then it spams the screen.
 
 CYGWIN WEBSITE: https://www.cygwin.com (https optional but recommended)
