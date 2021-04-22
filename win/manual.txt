@@ -1,0 +1,14 @@
+------------OCULTISTSQUIRREL'S FAKE HACKING TOOL MANUAL------------
+
+APRIL 22 2021
+
+  I have created a windows version! It is in an exe this time instead
+of a bash script. Just download it and run virus.bat. The actuall
+program is in virus.exe. Virus.bat just clears the terminal and changes
+the colors in cmd to black and green (like in the movies.) It askes for
+a password, so type in "HACK01101" to unlock it. Get the password wrong
+a couple times just for fun, but then get it right. It then opens up a
+fake hacker terminal. Just type in something scary like "install.virus."
+After typing a command press enter. Of course this is all fake so it
+doesn't  matter what you type. After typing something and pressing enter,
+It streams binary code down the screen. Press CTRL+C to stop.
